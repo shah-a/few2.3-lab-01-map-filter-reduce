@@ -1,6 +1,6 @@
 # Lab 1
 
-Solve these problems: 
+## Solve these problems: 
 
 Use `Array.map()` to create an array of strings that show the name and price of each product: 
 
